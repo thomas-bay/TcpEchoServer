@@ -1,3 +1,11 @@
 # Ignore the follwing files and types.
 !Debug/*.exe
 *.sdf
+*.log
+*.filters
+*.suo
+*.idb
+*.pdb
+*.obj
+*.tlog
+*.ilk
