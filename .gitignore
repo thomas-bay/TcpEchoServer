@@ -1,0 +1,3 @@
+# Ignore the follwing files and types.
+!Debug/*.exe
+*.sdf
